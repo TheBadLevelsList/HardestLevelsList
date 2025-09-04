@@ -1,5 +1,5 @@
 {
-    "id": 119544028,
+    "id": 119550490,
     "name": "Amethyst",
     "author": "Mist",
     "creators": ["Mist and more"],
@@ -8,7 +8,11 @@
     "percentToQualify": 56,
     "password": "Free To Copy",
     "records": [
-        {
+       {
+            "user": "Zoink",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
