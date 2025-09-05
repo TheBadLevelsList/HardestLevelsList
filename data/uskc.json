@@ -1,0 +1,18 @@
+{
+    "id": 86407629,
+    "name": "USKC",
+    "author": "Nick240",
+    "creators": ["Nick240"],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/AdrmZsy52EY?si=f_Y7V9r-6lyL7tEz",
+    "percentToQualify": 67,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "totalgd",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 82,
+            "hz": 360
+        }
+    ]
+}
