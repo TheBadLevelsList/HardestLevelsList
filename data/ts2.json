@@ -2,17 +2,11 @@
     "id": 119544028,
     "name": "Thinking Space II",
     "author": "CairoX",
-    "creators": ["CairoX and more"],
+    "creators": ["CairoX"],
     "verifier": "Zoink",
     "verification": "https://www.youtube.com/watch?v=CELNmHwln_c",
-    "percentToQualify": 56,
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Bot",
-            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
-            "percent": 0,
-            "hz": 18800
-        }
     ]
 }
