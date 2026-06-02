@@ -8,5 +8,8 @@
     "percentToQualify": 65,
     "password": "Free Trial",
     "records": [
+        "name": "nickname",
+        "video": "https://youtu.be/D9Zic4JItqU?si=EU6jbzIGRrh3lXSF",
+        "hz": "240",
     ]
 }
