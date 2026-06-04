@@ -8,5 +8,23 @@
     "percentToQualify": 89,
     "password": "no copy because riot evil muahahahaha",
     "records": [
+        {
+        "user": "Dogeball",
+        "link": "https://youtu.be/D9Zic4JItqU?si=EU6jbzIGRrh3lXSF",
+        "percent": 100,
+        "hz": -1
+        },
+        {
+        "user": "JohnWave",
+        "link": "https://youtu.be/D9Zic4JItqU?si=EU6jbzIGRrh3lXSF",
+        "percent": 100,
+        "hz": -1
+        },
+        {
+        "user": "realSoink",
+        "link": "https://youtu.be/D9Zic4JItqU?si=EU6jbzIGRrh3lXSF",
+        "percent": 100,
+        "hz": -1
+        }
     ]
 }
